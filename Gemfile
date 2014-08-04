@@ -19,6 +19,7 @@ gem 'jquery-rails'
 gem 'faker'
 gem 'devise'
 gem 'figaro'
+gem 'pundit'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
