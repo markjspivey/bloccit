@@ -18,6 +18,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'faker'
 gem 'devise'
+gem 'figaro'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
