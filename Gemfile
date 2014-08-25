@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
+gem 'will_paginate', '~> 3.0.5'
 
 group :doc do
   gem 'sdoc', require: false
